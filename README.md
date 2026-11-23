@@ -1,8 +1,8 @@
 # Six Words, One Story
 
-[![make.fun](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410?utm_source=github&utm_medium=readme&utm_campaign=bounty)
-[![rank](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/rank.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410?utm_source=github&utm_medium=readme&utm_campaign=bounty)
-[![reward](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/reward.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410?utm_source=github&utm_medium=readme&utm_campaign=bounty)
+[![make.fun · u-deranalabs-six-words-one-story-f982e410](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)
+[![rank](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/zargaan/six-words-one-story/rank.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)
+[![reward](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/zargaan/six-words-one-story/reward.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410)
 
 An entry for the [Six Words, One Story](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410) bounty on make.fun.
 
